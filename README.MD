@@ -11,7 +11,7 @@
 ## Описание веток
 
 - `git checkout master`- пустая ветка. Только общее описание проектов. _(файл README.md)_.
-- `git checkout live_search` - живой поиск. Смотреть на [CodeSandbox.io]()
+- `git checkout live_search` - живой поиск. Смотреть на [CodeSandbox.io](https://nuogl.csb.app/)
 
 ### Ветки репозитория:
 
